@@ -40,3 +40,5 @@ To run cypress tests, run the following command
 ```bash
   npm run gitHub_API
 ```
+
+## Note: GitHub don't allow to add secret and push the code, and if it does it removes those tokens from the user account, FYI there might be a chance where tokens won't work, so if this is the case let me know I will generate new personal tokens and will share you in email.

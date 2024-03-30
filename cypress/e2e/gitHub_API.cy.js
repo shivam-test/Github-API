@@ -35,9 +35,8 @@ describe('GitHub API Failure Cases', () => {
             failOnStatusCode: false
         }).then(response => {
             expect(response.status).to.eq(403);
-            // Unable to produce 403 forbidden 
-            // created a token with no scope, 
-            //but still when trying to hit the /user endpoint api it comes up with some public response and throws 200 success
+            // 403 forbidden will be for API rate limit exceeded for user ID  
+            //Please be aware that the rate limit is user ID specific and not token specific
         });
     });
 });
