@@ -17,7 +17,7 @@ This project is based on Javascript/Cypress/bdd/mocha,chai.
 To clone the repo, run the following command
 
 ```bash
-  git clone https://github.com/shivam-test/GitHub_API.git
+  git clone https://github.com/shivam-test/Github_API.git
 ```
 
 ## 4. npm Install
