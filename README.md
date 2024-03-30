@@ -1,6 +1,11 @@
-# Cypress bdd framework setup
+# Cypress tdd GitHub API framework setup
 
-This project is based on Javascript/Cypress/bdd/mocha,chai.
+This project is based on Javascript/Cypress/tdd/mocha,chai.
+
+## REST API endpoints for users
+```bash
+  https://docs.github.com/en/rest/users/users
+```
 
 ## 1. Visual Studio code download
 ```bash
