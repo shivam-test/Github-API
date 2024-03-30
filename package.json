@@ -1,0 +1,15 @@
+{
+  "name": "qa-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gitHub_API": "node_modules\\.bin\\cypress run --spec 'cypress/e2e/*.cy.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
+}
