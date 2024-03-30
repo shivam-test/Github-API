@@ -1,5 +1,5 @@
-let validToken = 'Bearer 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';
-let tokenWithoutPermission = 'Bearer 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';
+let validToken = 'Bearer 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';
+let tokenWithoutPermission = 'Bearer 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';
 
 describe('GitHub API Failure Cases', () => {
     it('No Token Provided - Should return 401 Unauthorized', () => {
