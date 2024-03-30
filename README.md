@@ -1,6 +1,6 @@
-# Cypress tdd GitHub API framework setup
+# GitHub API - Cypress TDD framework setup
 
-This project is based on Javascript/Cypress/tdd/mocha,chai.
+This project is based on Javascript/Cypress/TDD/mocha,chai.
 
 ## REST API endpoints for users
 ```bash
